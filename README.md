@@ -9,7 +9,7 @@ I'm a cybersecurity professional and researcher with a passion for building inte
 **SOCCraft: An AI-Augmented, Open-Source SOC with SOAR**
 - A complete, end-to-end security framework that reduces incident response time by over 98%.
 - Features a hybrid AI engine for intelligent, risk-based remediation and is resilient to common evasion techniques.
-- **https://github.com/th1lak-d/SocCraft** *(We'll add this link once we create the repo in Part 2)*
+- **https://github.com/th1lak-d/SocCraft** 
 
 ---
 
