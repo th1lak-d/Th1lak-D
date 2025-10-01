@@ -25,6 +25,4 @@ I'm a cybersecurity professional and researcher with a passion for building inte
 ---
 
 ### 📫 Find Me Online
-
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]
+- **Email:** [th1lak@duck.com]
